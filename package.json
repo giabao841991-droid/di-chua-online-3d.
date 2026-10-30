@@ -1,0 +1,12 @@
+{
+  "name": "di-chua-online-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Game Đi Chùa Online 3D - một phòng chung multiplayer",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
